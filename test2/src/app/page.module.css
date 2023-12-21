@@ -1,0 +1,12 @@
+.link{
+    color: orange;
+}
+
+.link:hover{
+    color: red;
+    cursor: pointer;
+}
+
+#specialLink{
+    color: pink;
+}
